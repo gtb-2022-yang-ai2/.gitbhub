@@ -6,12 +6,17 @@ a thoughtworker-to-be of ThoughtWorks Wuhan office.
 
 I come from Chongqing.
 A city famous for it's quirky terrain,
-![Quirky Terrain](./assets/chongqing_terrian.jpg "Quirky Terrain")
+
+<img src="./assets/chongqing_terrian.jpg" width="400">
+
 
 and declious hot pot.
+
 ![Hot Pot](./assets/hopot.jpg "hot pot")
 
 This is me.
-![Yang Ai](./assets/Yangai.jpg "Me")
+
+<img src="./assets/Yangai.jpg" width="400">
+
 
 I'm really glad to know you guys and study together.
